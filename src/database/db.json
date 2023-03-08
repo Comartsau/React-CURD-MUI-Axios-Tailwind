@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "พัดลม",
+      "detail": "ใบพัดขนาด 16\" , remote , ตั้งเวลาเปิด-ปิดได้",
+      "image": "https://cdn.pixabay.com/photo/2014/04/03/10/00/fan-309553_960_720.png",
+      "price": "8500",
+      "stock": "20",
+      "id": 1
+    },
+    {
+      "name": "notebook",
+      "detail": "cpu: core i5 , vga: rtx1606 , ram: 16GB , HDD: 1TB ",
+      "image": "https://cdn.pixabay.com/photo/2016/03/27/07/12/apple-1282241_960_720.jpg",
+      "price": "32500",
+      "stock": "15",
+      "id": 5
+    },
+    {
+      "name": "เครื่องซักผ้า",
+      "detail": "ขนาดถังจุได้ 16 ลิตร , ตั้งโปรแกรมได้ 10 หมวด , เบอร์ 5 3 ดาว",
+      "image": "https://cdn.pixabay.com/photo/2016/01/28/22/07/washing-machine-1167053_960_720.jpg",
+      "price": "12000",
+      "stock": "5",
+      "id": 6
+    }
+  ]
+}
